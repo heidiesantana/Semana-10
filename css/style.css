@@ -1,0 +1,66 @@
+body {
+	background-color: #F0FFFF;
+}
+
+header {
+	font-family: 'Parisienne', cursive;
+	font-size: 60px;
+	color: #20B2AA;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.teachers{
+	display: flex;
+}
+
+h2{
+	color: #20B2AA;
+	font-family: 'Parisienne', cursive;
+	font-size: 48px;
+
+}
+
+.column-1, .column-2 {
+	flex: 1;
+	text-align: center;
+	margin: 20px;
+	padding: 20px;
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 16px;
+	width: 300px;
+
+
+}
+
+p {
+	width: 300px;
+	text-align: center;
+	margin: 20px;
+	padding: 10px;
+	margin-left: 150px;
+
+}
+
+.teachers div img{
+	border-radius: 10%;
+	width: 300px;
+	margin-top: 50px;
+}
+
+footer{
+	font-family: 'Julius Sans One', cursive;
+	color: grey;
+	font-size: 10px;
+	margin-left: 350px;
+	padding-top: -10px;
+
+}
+
+footer img {
+	width: 30px;
+	margin-left: 300px;
+	margin-right: 300px;
+
+
+}
