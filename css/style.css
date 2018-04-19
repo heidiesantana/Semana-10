@@ -10,15 +10,14 @@ header {
 	margin-top: 50px;
 }
 
-.teachers{
+.teachers {
 	display: flex;
 }
 
-h2{
+h2 {
 	color: #20B2AA;
 	font-family: 'Parisienne', cursive;
 	font-size: 48px;
-
 }
 
 .column-1, .column-2 {
@@ -29,8 +28,6 @@ h2{
 	font-family: 'Julius Sans One', sans-serif;
 	font-size: 16px;
 	width: 300px;
-
-
 }
 
 p {
@@ -39,28 +36,29 @@ p {
 	margin: 20px;
 	padding: 10px;
 	margin-left: 150px;
-
 }
 
-.teachers div img{
+.teachers div img {
 	border-radius: 10%;
 	width: 300px;
 	margin-top: 50px;
 }
 
-footer{
+footer {
 	font-family: 'Julius Sans One', cursive;
 	color: grey;
 	font-size: 10px;
-	margin-left: 350px;
-	padding-top: -10px;
-
 }
 
 footer img {
 	width: 30px;
-	margin-left: 300px;
-	margin-right: 300px;
+}
 
+.social {
+	width: 100px;
+	margin: auto;
+}
 
+.social li {
+	float: left;
 }
